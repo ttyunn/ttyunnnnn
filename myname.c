@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("�i�lʳ\n");
+printf("張子妘\n");
 }
