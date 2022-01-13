@@ -1,10 +1,11 @@
+
 #include <stdio.h>
 
 int main() {
 
     printf("請輸入一個整數︰");
 
-    int i=3;
+    int i;
 
     scanf("%d", &i);
 
